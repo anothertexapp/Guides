@@ -1,5 +1,5 @@
 ---
-title: AnotherTexApp's manual
+title: "Guide to AnotherTexApp: Tutorials and Answers"
 ---
 
 ## What is this manual
