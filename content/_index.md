@@ -24,5 +24,5 @@ Download all of the apps for free using the links below! They're available to ev
   {{< card link="https://anothertexapp.com/texedit/appstore" title="Download TexEdit" icon="download" >}}
   {{< card link="https://anothertexapp.com/texdraw/appstore" title="Download TexDraw" icon="download" >}}
   {{< card link="https://anothertexapp.com/texreview/appstore" title="Download TexReview" icon="download" >}}
-  {{< card link="https://anothertexapp.com/texstage/appstore" title="Download TexSTage" icon="download" >}}
+  {{< card link="https://anothertexapp.com/texstage/appstore" title="Download TexStage" icon="download" >}}
 {{< /cards >}}
