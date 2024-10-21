@@ -15,6 +15,9 @@ markup:
 
 menu:
   main:
+    - name: "General"
+      pageRef: /general
+      weight: 1
     - name: "TexEdit"
       pageRef: /texedit
       weight: 2
@@ -27,9 +30,6 @@ menu:
     - name: "TexStage"
       pageRef: /texstage
       weight: 5
-    - name: "Miscellaneous"
-      pageRef: /miscellaneous
-      weight: 6
     - name: Search
       weight: 10
       params:

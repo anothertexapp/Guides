@@ -13,11 +13,11 @@ If you want to know more about the project and the apps, go to the [main website
 ## Explore all Sections
 
 {{< cards >}}
-  {{< card link="texedit" title="TexEdit Manual" image="/images/card-image-texedit.jpg" >}}
-  {{< card link="texdraw" title="TexDraw Manual" image="/images/card-image-texdraw.jpg" >}}
-  {{< card link="texreview" title="TexReview Manual" image="/images/card-image-texreview.jpg" >}}
-  {{< card link="texstage" title="TexStage Manual" image="/images/card-image-texstage.jpg" >}}
-  {{< card link="miscellaneous" title="Miscellaneous" image="/images/card-image-miscellaneous.jpg" >}}
+  {{< card link="general" title="General" image="/images/card-image-miscellaneous.jpg" >}}
+  {{< card link="texedit" title="TexEdit" image="/images/card-image-texedit.jpg" >}}
+  {{< card link="texdraw" title="TexDraw" image="/images/card-image-texdraw.jpg" >}}
+  {{< card link="texreview" title="TexReview" image="/images/card-image-texreview.jpg" >}}
+  {{< card link="texstage" title="TexStage" image="/images/card-image-texstage.jpg" >}}
 {{< /cards >}}
 
 ## Download the Apps
