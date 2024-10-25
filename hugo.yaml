@@ -2,6 +2,7 @@
 theme: "hextra-forked"
 title: Manual
 enableInlineShortcodes: true
+enableRobotsTXT: true
 
 markup:
   # allow raw html
@@ -35,9 +36,17 @@ menu:
       params:
         type: search
   sidebar:
+    - identifier: more
+      name: More
+      weight: 10
+      params:
+        type: separator
     - name: "Ask a Question ↗"
       url: "https://forum.anothertexapp.com"
-      weight: 10
+      weight: 15
+    - name: "Go to Website ↗"
+      url: "https://anothertexapp.com"
+      weight: 20
 
 params:
   navbar:

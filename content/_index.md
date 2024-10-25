@@ -4,7 +4,7 @@ title: "Guide to AnotherTexApp: Tutorials & Tips"
 
 ## What is this manual?
 
-This online manual is here to help you get started with the four apps offered by AnotherTexApp. If you have any questions about how to use the apps or perform specific tasks, you're likely to find the answers here. If you don’t find the information you need, feel free to [ask your questions on the forum](https://forum.anothertexapp.com). This way, the community can assist you, and the manual can be updated to help future users.
+This online documentation is here to help you get started with the four apps offered by AnotherTexApp. If you have any questions about how to use the apps or perform specific tasks, you're likely to find the answers here. If you don’t find the information you need, feel free to [ask your questions on the forum](https://forum.anothertexapp.com). This way, the community can assist you, and the manual can be updated to help future users.
 
 {{< callout type="info" >}}
 If you want to know more about the project and the apps, go to the [main website ↗](https://anothertexapp.com)
