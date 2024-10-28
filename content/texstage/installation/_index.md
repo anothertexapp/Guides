@@ -1,7 +1,7 @@
 ---
 weight: 1
 type: docs
-title: Downloading and Installing
+title: Installing
 prev: /texstage/
 next: /texstage/getting-started
 ---
