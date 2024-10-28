@@ -1,7 +1,6 @@
 ---
 type: docs
 title: General Section
-prev: /
 next: /general/project
 ---
 ### Explore Our Comprehensive manual
