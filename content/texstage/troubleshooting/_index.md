@@ -1,9 +1,9 @@
 ---
 
-weight: 5 
+weight: 9
 type: docs  
 title: Troubleshooting  
-prev: /texstage/remote-control  
+prev: /texstage/latex  
 next: /texstage/questions  
 
 ---

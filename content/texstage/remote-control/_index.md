@@ -4,7 +4,7 @@ type: docs
 weight: 3  
 title: Remote Control
 prev: /texstage/on-iphone-ipad/stage/  
-next: /texstage/troubleshooting  
+next: /texstage/latex  
 
 ---
 

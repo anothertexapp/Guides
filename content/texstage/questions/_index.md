@@ -1,6 +1,6 @@
 ---
 type: docs
-weight: 6
+weight: 10
 title: Other Questions
 prev: /texstage/troubleshooting
 ---
