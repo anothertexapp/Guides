@@ -13,7 +13,7 @@ In this article, I’ll present the interface of TexStage for iOS, highlighting 
 
 ### First Step: Open a Document
 
-![Open Document on TexStage for iOS](ios-first-document.jpg)
+![Open Document on TexStage for iOS](ios-open-files.jpg)
 
 1. Open **TexStage** on your iOS device.
 2. Tap **File** to open your document.
