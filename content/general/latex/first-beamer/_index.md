@@ -1,7 +1,7 @@
 ---
 weight: 3
 type: docs
-title: Creating your first Beamer slideshow
+title: Your first Beamer slideshow
 prev: /general/latex/first-article
 next: /general/questions/
 ---
@@ -183,7 +183,7 @@ Now that you’ve built a Beamer presentation, the next step is presenting it. T
 - **Cross-platform**: Available on both macOS and iOS, TexStage allows you to present from any Apple device, whether you’re at your desk or on the go.
 - **Easy annotation**: With TexStage, you can annotate directly on your slides during the presentation, using an Apple Pencil or mouse.
 - **Multi-screen support**: You can display your slides on one screen while viewing your notes on another, offering a professional, controlled presentation experience.
-- **Remote control via AirPlay**: On iOS, you can control the presentation wirelessly through AirPlay, allowing flexibility in movement.
+- **Remote control**: You can use your iPhone or iPad to control your presentation on your Mac.
 
 By using TexStage, you can take full advantage of Beamer presentations without needing to manually configure multi-screen displays or annotations. Simply open your PDF in TexStage, and you’re ready to present!
 

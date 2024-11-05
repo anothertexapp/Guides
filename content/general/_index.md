@@ -3,7 +3,6 @@ type: docs
 title: General Section
 next: /general/project
 ---
-### Explore Our Comprehensive manual
 
 Welcome to the general section of this manual, where we provide a wealth of resources to help you navigate the applications and maximize your productivity. Whether you are looking for guidance on using the Forum, exploring the intricacies of LaTeX, or seeking answers to general questions about the project, you’ve come to the right place. 
 

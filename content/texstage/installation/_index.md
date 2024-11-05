@@ -1,33 +1,35 @@
 ---
-weight: 1
-type: docs
-title: Installing
-prev: /texstage/
-next: /texstage/getting-started
+
+weight: 1  
+type: docs  
+title: Installing  
+prev: /texstage/  
+next: /texstage/on-mac  
+
 ---
 
-### 1. Installing TexStage on macOS
+To install TexStage, download the app from the App Store via this [link](https://anothertexapp.com/texstage/appstore). You can also follow the steps below.
 
-To install TexStage on your Mac, follow these steps:
+![Screenshot Mac App Store](./screenshot.jpg)
 
-1. Open the **App Store** app on your Mac.
-2. In the search bar, type `TexStage`.
-3. Locate the app in the search results and click the **Get** button.
-4. Once downloaded, TexStage will automatically install on your Mac for free.
-5. After installation, you can find TexStage in your **Applications** folder.
+### Installing TexStage on macOS
 
-> **Tip:** Ensure you have the latest version of macOS to access all TexStage features.
+1. Open the **App Store** on your Mac.
+2. Enter `TexStage` in the search bar.
+3. Locate TexStage in the results and click **Get**.
+4. The app will automatically download and install on your Mac.
+5. After installation, find TexStage in your **Applications** folder.
 
-### 2 Installing TexStage on iOS (iPhone and iPad)
+> **Tip:** Make sure you have the latest version of macOS to enjoy all of TexStage’s features.
 
-To install TexStage on your iOS device, follow these steps:
+### Installing TexStage on iOS (iPhone and iPad)
 
-1. Open the **App Store** app on your iPhone or iPad.
-2. In the search bar, type `TexStage`.
-3. Tap the **Get** button next to the app.
-4. The app will automatically download and install on your device for free.
-5. After installation, you can launch TexStage from your **Home Screen**.
+1. Open the **App Store** on your iPhone or iPad.
+2. Enter `TexStage` in the search bar.
+3. Locate TexStage in the results and click **Get**.
+4. The app will automatically download and install on your device.
+5. Once installed, launch TexStage from your **Home Screen**.
 
-> **Note:** TexStage is optimized for iPads, providing additional screen space and features for a better presentation experience.
+> **Note:** TexStage is optimized for iPads, offering additional screen space and features to enhance your presentation experience.
 
-Nothing's simpler! Now, you're ready to start using TexStage for your presentations!
+And that’s it! You’re now ready to start using TexStage.

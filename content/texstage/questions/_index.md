@@ -1,27 +1,34 @@
 ---
 type: docs
-weight: 7
+weight: 6
 title: Other Questions
 prev: /texstage/troubleshooting
 ---
 
-## General Usage
+## App Questions
 
-### Can I use TexStage for non-Beamer PDFs?
-While TexStage is optimized for Beamer presentations, it can handle other PDF formats as well. However, certain features, like presenter notes and advanced slide transitions, may not work as expected with non-Beamer PDFs.
+### How do I report a bug or request a feature?
 
-## Cross-Platform Usage
+If you've found a bug, we’d appreciate your help in reporting it! Moreover, We’re always open to new ideas to improve TexStage. You can either send us an email at [hi@anothertexapp.com](mailto:hi@anothertexapp.com) or post in the dedicated forum [here](https://anothertexapp.com/forum/).
 
-### Can I sync my presentations across Mac and iOS devices?
-Yes, TexStage supports syncing presentations between macOS and iOS through iCloud. You can start a presentation on your Mac and continue it on your iPhone or iPad seamlessly using iCloud Drive. Ensure that iCloud is enabled on both devices and that your presentation files are stored in a location synced with iCloud.
+### Is TexStage a native app?
+
+Yes, TexStage is built as a native macOS application, developed with the latest technologies, including SwiftUI.
+
+### How can I support TexStage?
+
+If you’re enjoying TexStage, a small donation would help cover operating expenses and support future feature development. We also plan to introduce an optional subscription in future updates for those who would like to contribute regularly and help TexStage grow.
+
+### What languages does TexStage support?
+
+TexStage is available in sixteen languages to enhance accessibility worldwide. Originally developed in English, the application is translated into Chinese (Simplified), Chinese (Traditional), Czech, Danish, English, French, German, Italian, Japanese, Korean, Norwegian Bokmål, Portuguese, Russian, Spanish, Swedish, and Turkish, with translations provided by OpenAI tools.
+
+## Usage Questions
 
 ### Can I control my Mac presentation using my iPhone or iPad?
-Not at the moment but the feature is in TODO list.
 
-## Mobile-Specific Questions
-
-### Can I present offline on my iPhone or iPad?
-Yes, TexStage allows you to present offline on your iPhone or iPad. Simply ensure that your Beamer PDF files are downloaded to your device before starting the presentation. This way, you can access the slides even without an internet connection.
+Yes, you can control your Mac presentation using your iPhone or iPad! TexStage offers a remote control feature that allows you to manage your presentations from your iOS device. You can for instance navigate through slides or switch the stage.
 
 ### Does TexStage support cloud syncing on mobile devices?
-Yes, TexStage supports cloud syncing with services like iCloud, Dropbox, and Google Drive. On iOS, you can directly import Beamer PDFs from your cloud storage accounts into the app. Once imported, you can present offline or make edits while online.
+
+Yes, TexStage supports cloud syncing with services like iCloud, Dropbox, and Google Drive. On iOS, you can directly import LaTeX Beamer PDFs from your cloud storage accounts into the app. Once imported, you can present offline or make edits.

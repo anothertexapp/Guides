@@ -1,7 +1,7 @@
 ---
 weight: 2
 type: docs
-title: Creating your first LaTeX article
+title: Your first LaTeX article
 prev: /general/latex/installation
 next: /general/latex/first-beamer
 ---
